@@ -9,7 +9,7 @@ List of open-source thesis ideas. Feel free to open a PR and help to improve the
 This list is grouped by the _main_ languare required to contribute to a specific open source project.
 
 #### Java
-- [JSch - implement OpenSSH multiplexing](ideas/jsch-multiplexing.md) (Proposed by: @letalvol)
+- [JSch - implement OpenSSH multiplexing](ideas/jsch-multiplexing.md) (Proposed by: [@letalvoj](https://github.com/letalvoj))
   - <!-- @student, @advisor, year, [repository - only after you submit your thesis] -->
 
 ### Stand-alone projects
@@ -19,8 +19,8 @@ This list is grouped by the _main_ languare required to contribute to a specific
 ## For students
 
 - more than one student can work on a specific topic
-- create a PR 
-- publish your repository here after submitting the thesis to avoid plagiatorism
+- add your name to a topic after you _start working on it_
+- publish your repository here _after_ submitting the thesis to avoid plagiatorism
 - topic is considered _finished_ if it has been either upstreamed or released as a software package in any other way
 - it is ok to base your work on a published yet _unfinished_ results of previous students if there is still enough work to do
 - please cite this list
@@ -34,6 +34,8 @@ This list is grouped by the _main_ languare required to contribute to a specific
 
 Please open a PR!
 
+### PR Guidelines
+
 A PR adding new new entry to the main list MUST also include a `md` file in `ideas/` giving a reasonably thorough description.
 
 **Disclamer: 
@@ -41,12 +43,13 @@ by contributing a thesis idea you are NOT required to commit to advising or revi
 It is up students to find an advisers likely within their university.**
 
 ## Citation
+Feel free to replace the name of the author with the name of the person who proposed the specific idea. Please keep the URL.
+
 ```
 @online{OpenSourceThesisIdeas,
   author = {Letal at al.},
   title = {Open-Source Thesis Ideas},
-  url = {https://github.com/letalvoj/oss-thesis-ideas},
-  urldate = {$DATE_RESERVED}
+  url = {https://github.com/letalvoj/oss-thesis-ideas}
 }
 ```
 
