@@ -4,7 +4,7 @@ List of open-source thesis ideas. Feel free to open a PR and help to improve the
 
 ## Ideas
 
-### Contributions
+### Existing projects
 
 This list is grouped by the _main_ languare required to contribute to a specific open source project.
 
@@ -50,6 +50,6 @@ It is up students to find an advisers likely within their university.**
 }
 ```
 
-## [License](LICENSE.md)
+## License
 
-![CC-BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+[![CC-BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](LICENSE.md)
